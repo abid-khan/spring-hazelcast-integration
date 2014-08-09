@@ -1,4 +1,4 @@
-spring-hazelcast
+spring-hazelcast-integration
 ================
 
 Objective of spring-hazelcast project is to provide samples or examples of hazelcast integration with spring.
